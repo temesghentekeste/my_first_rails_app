@@ -1,24 +1,8 @@
-# README
+# First Rails Project
+This is a project from microverse meant to depict successful installation of ruby on rails. It also requires you to deploy the app to heroku.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Live Demo
 
-Things you may want to cover:
+<a href="https://temesghen-rails-setup.herokuapp.com/">Live version</a>
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
